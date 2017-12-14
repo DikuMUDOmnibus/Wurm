@@ -1,0 +1,923 @@
+#HELPS
+-1 'RACE HELP' 'RACE' 'RACES'~
+THE RACES OF WURM
+
+Human Stock Races Available To All Players
+
+Jezram   - City folk, usually light skinned with blonde hair.
+Kang     - Mountain barbarian folk, light skined with dark hair.
+Sethuut  - Desert dwelling folk, dark skinned and shamanistic.
+
+Non Human Races Available Upon Approval
+
+Sylvan   - Fair skinned woodland folk, very wise and magical.
+Thstaar  - Filthy short folk who live underground.
+Hobbit   - Little people distant cousins of humans.
+Saurig   - Lizard like people who dwell in the desert.
+Nrsang   - Dark folk who dwell in the accursed places.
+ 
+Each race has its place in the lands. They all serve intregal
+parts in the ecology of WURM. Each race has its own
+skills and abilitys, see the individual racial helps to learn
+more about these. ( ie HELP HUMAN )
+
+~
+
+-1 GUILD 'GUILD HELP' 'GUILDS'~
+The Guilds Of Rylelia
+========================
+Runemaster    A general purpose spellcaster.
+Priest        A martial artist type with some spells.
+Thief         Trained in sneaking and hiding.
+Warriors      Excellent fighters, fast rankers.
+Cavalier      Tough to rank, healing and fighting skills.
+Assassin      Trained in the arts of killing.
+Healer        A non offensive cleric type.
+Ranger        Excellent outdoorsman
+Barbarian     A fierce fighter and hater of magic.
+Crafter       Creation type spells.
+Necromancer   Combat spells and creation of undead.
+
+Type [ help guildname ] for further help on each guild.
+
+~
+
+-1 HUMAN HUMANS MAN~
+Humans are the most common race in the world, and make up the majority of
+adventurers. Although they have no special talents like the other races,
+they are more versitile, being skilled in all four classes. Humans may
+also train their primary stat higher than any other race, and are able to
+gain more benefit from magical devices. Humans can be of just about
+any height and weight.
+
+Humans can be of any alignment and can be of any class.
+~
+
+-1 WANDS STAVES SCROLLS~
+Magical items require training to use properly.  If your character lacks the
+necessary skill to use an item, he will fail, possibly destroying it.  The
+item skills are as follows:
+
+scrolls		The reading of magical scrolls and books (see 'help recite')
+staves		The use of staves and similar devices (see 'help brandish')
+wands		The use of wands and similar items (see 'help zap') 
+~
+
+-1 'GROUP HEADER'~
+The following skills and groups are available to your chacter:
+(this list may be seen again by typing list)
+~
+
+-1 'GROUP HELP'~
+The following commands are available:
+list         display all groups and skills not yet bought
+learned      show all groups and skills bought 
+premise      brief explanation of creation points and skill groups
+add <name>   buy a skill or group
+drop <name>  discard a skill or group
+info <name>  list the skills or spells contained within a group
+help <name>  help on skills and groups, or other help topics
+done	     exit the character generation process
+~
+
+-1 'MENU CHOICE'~
+Choice (add,drop,list,help)?~
+
+-1 'GROUPS' 'INFO' 'PREMISE'~
+The ROM skill system allows you to fully customize your new character, making
+him or her skilled in the skills you choose.  But beware, the skills you pick
+at character creation are the only skills you will ever learn.  Skills are 
+paid for with creation points, and the more creation points you have, the
+harder it is to gain a level.  Furthermore, higher-cost skills are harder to
+practice.
+
+Skill groups are like package deals for characters -- sets of skills or spells
+that are closely related, and hence can be learned as a unit.  There is a 
+default skill group for each class, which can be selected for a balanced 
+selection of skills at a somewhat reduced cost.
+
+The experience breakdown is as follows: 
+points   exp/level     points   exp/level
+40        1000         90        6000
+50        1500         100       8000
+60	  2000         110      12000
+70        3000         120      16000 
+80        4000         130      24000
+The table continues in a similar manner for higher point totals.
+~
+
+-1 BASICS 'ROM BASICS'~
+The basic skills:
+
+Every character starts with two skill groups, one for their class and a default
+set that all characters receive.  The default skills are:
+
+recall  	essential escape skill (see help recall)
+scrolls		reading of scrolls and other magical volumes
+staves		use of magical staves
+wands		use of magical wands
+
+for class defaults, check the classes themselves.
+~
+
+-1 THIEF 'THIEF'~
+The theives and footpads of Rylelia. There guild halls
+are supposedly hidden deep under the city or out in the forests
+of the Dearthwood. They hold a loose alliance with the Astari
+guild and have a hatred of the Cavaliers and the Milita Guilds.
+thieves are excellent at sneaking and stealing and learn these
+skills quickly. Their presence is not tolerated by any of the
+law abiding guilds, and they are quickly put to death when
+caught commiting a crime. The problem with this guild is that
+as the old saying goes "there is no honor among thieves" is
+very true, most thieves do NOT work together, they care little
+except for their own wealth and gratification. If you play
+a thief you are the scum of society and hated by most. Be
+quick thinking and quick moving and you will stay alive, remember
+the city alleys are your best allie, knowing the ways of
+the streets will save your life.
+~
+
+-1 WARRIOR~
+The Warriors are a guild of fighters who have
+banded together as mercenarys to gain power and riches. 
+Warriors especially human ones, gain rank fast. There skills
+are centered on fighting and combat, and few if any ever 
+learn any spells. Warrios members have a tolerance with all
+the classes, and often accompany spellcasters to adventure
+in strange places. The Warrior guild owes the Overlord respect
+and are called upon from time to time to act as town guards
+or to help track down a violent criminal, this is usually 
+only if a Cavalier is not available. Warriors can use scrolls
+and wands, but usually dont, keeping their trainings to
+the fighting arts. Warriors come in all shapes and
+sizes, and can be of both sexes.
+~
+
+-1 HEALER~
+The healer guild of Rylelia is made up of generally good
+hearted people. They will help all if they are wounded or
+are sick. Healers can also be deadly foes, as they have a
+good mixture of offensive and defensive spells available to
+them. This guild is often found in a great dilema, as the
+Overlord forbids the helping of his enemies, but the members
+of this guild just cannot refuse one in need. The generally
+live a just and chaste life, preferring to keep to themselves
+and help the needy. There guild houses are found all over
+Rylelia and often provide a nice place to rest and recover
+from your battles. Look to the healers if you need help.
+And playing a healer means for you to look to help others.
+~
+
+-1 RANGER~
+The Rangers! A powerful guild who controls all the unpopulated
+sections of Rylelia. They hold a small alliance with the
+Orcs and Goblins, but still battle them quite frequently. The
+Cavaliers hate them, as do any folk of higher social status,seeing 
+these forest dwellers as scum. The rangers guild teach survival.
+They are taught from the beginning to survive in the forests 
+without having to enter the cities. At lower ranks your journeys
+to these towns will be a bit more frequent, but as you gain
+in power, you will seek to never again enter a city unless it
+is absolutely needed. The rangers are excellent to hire for
+scouts and guides through the rough areas of Rylelia, and are
+known for their ability to navigate even the roughest of 
+terrain. Rangers are quiet and solitary folk but generally
+of kind heart. Do not wrong a ranger, or next time you leave
+the town, you will find a sword in your back.
+~
+
+-1 BARBARIAN~
+The Barbarian guild is made up of powerful and fanatic warriors.
+These guild members hate magic and all the pain it brings.
+The unnatural forces are to be destroyed and all the mages
+with it. They have guilds in the citys and forests and
+are constantly at battle with the Craters and Runemasters,
+they hate the Necromancers as well but fear them a bit due to 
+their evil death magic. Most barbarians are kind of stupid oaf
+types who like to crush and destroy, they are constantly 
+drunk or causing trouble, picking on small innocent folk and
+winding up in jail. They are known for their filthy tongues
+and are constantly causing fights. You  will do whatever
+is needed in order to destroy mages. They will hunt them
+to all ends of Rylelia it takes that. They get excellent
+abililitys in combat including the ability to enter a 
+crazed berserk frenzy. Be warned, this is a stupid but
+feared guild.
+~
+
+-1 CRAFTER~
+The crafters guild is a mysterious one. It is said that all
+magic items come from there secret workshops hidden deep
+under the western mountains. Their guild houses are accepted
+and respected all over Rylelia except of course by the Shetari.
+Crafters have a vast knowledge of magic and spellcasting
+ability, they are very expensive experience wise to rank after
+a few levels, but you will find a large number of spells to
+choose from. Crafters are said to have been formed out of a
+fraternal brotherhood that discovered ancient tomes of 
+rituals and magics that gave them their initial power. Now
+they are a very wealthy guild and have a good say in what
+the Overlord decides to do. Crafters accept all social
+status but are a male oriented guild. They are of all
+kinds of natures, from helpful, to destructive. Watch 
+yourself at lower levels, until your power grows.
+~
+
+-1 NECROMANCER~
+One of the most hated guilds in the land. The power of the
+necromancer come from negative energy and dark creatures said
+to only lurk in nightmares. You  are selfish and evil
+and enjoy killing just for the pleasure of it. They can 
+enslave and cause great pain and suffering with their magics.
+necromancers are walking the line of acceptance with the Overlord.
+It is rumored that he keeps their guild around because they
+use their powerful magics to keep him from aging, of course
+this is not spoken of openly, it would cost you your life.
+Necromancers hate barbarians and enjoy torturing the 
+stupid oafs a bit before doing so. Necromancers come in all
+social status's and can be male or female.
+~
+
+-1 RUNEMASTER 'RUNE' 'RUNEMASTERS'~
+Runemasters are the most common of the spellcasters. They
+gain their powers from harnessing the elemental magics and
+channeling them through glyphs or runes which they trace in
+the air. Runemasters do not CAST magics, they DRAW them. An
+example would be....
+
+
+The glyphs or runes which they draw are usually accompanied
+by an activation phrase which actually casts the spell. This
+is done in quick cycles that are second nature to even the
+lowest of Runemasters. The Runemasters are run by an elder who
+resides in a magical tower said to float in the void. Only
+the highest levels of Runemasters are ever welcomed at this
+place to serve at their lords side. Runemasters feel that
+magic is the founding force in the universe and everything
+revolves around it. Runemasters mainly wield daggers or staffs
+but a few have been known to use other weapons. A Runemaster
+at lower levels is often known to travel with companions until
+their magic power grows enough to stake out alone. A high
+level Runemaster is someone to FEAR. A wide range of spells is
+taught to the Runemaster as they grow in rank, from damage
+magic, to healing magic, their powers encompass all forms.
+Runemasters are generally of a neutral nature and try to avoid
+conflicts with those of other guilds, except that of the
+Shetari guild. 
+~
+
+-1 PRIEST 'PRIESTS'~
+Priests are martial oriented priests who specialize in
+the hand to hand fighting arts. Although they have the
+ability to use staff type weapons, most do not, feeling
+it interrupts their natural martial balance. Priests tend
+to live a life without many luxurys, wandering through
+the world obeserving and learning from nature and from
+the people they encounter. Priests have a few organized guild
+houses around Rylelia but they are generally hard to
+find. Priests tend to not deal with other guilds seeing
+these kind of actions a political thing that they do not
+wish to get involved with. They are good of spirit and
+kind of heart and help when they can. Priests protect the
+innocents whenever possible and will go to great lengths
+to get revenge if one of their own is wronged. This guild
+is left alone for the most part by the Overlord and his
+minions, as they are not a great force in politics. Priests
+have few skills, but the ones they do have are very powerful.
+There have been rumors of a secret temple that priests of
+high rank seek out in their later years. A priest that does
+not follow his simple life is frowned upon and will be
+expelled from the order.
+~
+
+-1 STATUS 'SOCIAL STATUS'~
+Your social status defines alot about who you are in the world
+and where you came from, although you can eventually buy your
+way up in status, most never do. To learn more about status,
+do a help on its name.
+Social Status's Are
+Freeholder
+Commoner
+Craftsmen
+Wealthy
+Nobility
+Royalty
+~
+
+-1 FREEHOLDER~
+Just above a slave.  This is the lowest possible social status and 
+is fairly common. You have no permanent residence and must reside in the
+lower class Inns of the land, most of these are outside the city and are
+not supported by the Overlord so they cost gold. Your equipment will be
+stolen or found as the shops do not allow you to shop there. It is rumored
+that there are some places outside the Overlords reach which will sell to
+even freeholders.  Being a freeholder offers you no rights, and you are
+often required to perform to the needs of upper class individuals.
+~
+
+-1 COMMONER~
+This is the most common social status in the lands. You are offered 
+various rights and privileges such as free room and board in the Overlords
+inns and common  houses located inside the city. You are generally
+accepted by the lower class inns outside the city. You have a small amount
+of money and the ability to purchase items at some stores.
+~
+
+-1 CRAFTSMAN~
+Your background offers you priveleges that those of lower class do not get.
+You are fairly wealthy and have access to better items offered in the stores 
+and shops. You can stay at quality Inns and board rooms. You will start
+with good equipment and have access to food and water for a good price.
+You can expect service at lower class inns outside the city to be
+aggressive towards you, and it is not recommended you stay there.
+~
+
+-1 WEALTHY~
+You have been brought up with all the nice things in life. You can expect 
+service just about anywhere, and your price will always be good. Those of
+lower class are expected to respect your desires (within the Overlords
+reach of course) and you are exempt from a lot of the laws of the
+Overlord. Most of the wealthy status do not leave the city too much 
+without armed escort.
+~
+
+-1 NOBILITY~
+You are one of the lands leaders. Probably controlling some men and a lot of 
+money and resources. You will have a house in which to stay, and despise 
+having to reside at an inn. The lower class sections of the city are not a 
+place for you, although they are yours to control. 
+~
+
+-1 ROYALTY~
+You are a relative of the Overlord in some way or another. You ARE the law.
+You make the laws and decisions  of the land. The guard is yours to control
+as are the populace of the city and lands. This is by far the most rare of 
+social status, consider yourself lucky if this is you.
+~
+
+-1 CAVALIER~
+Help is being prepared for this.
+~
+
+-1 THIEF~
+Thieves are a marginal class. They do few things better than any other class,
+but have the widest range of skills available.  Thieves are specialists at
+thievery and covert actions, being capable of entering areas undetected where
+more powerful adventurers would fear to tread.  They are better fighters than
+clerics, but lack the wide weapon selection of warriors.
+
+All thieves begin with the dagger combat skill, and are learned in steal as 
+well.  Any other weapon skills must be purchased, unless the default selection
+is chosen.  This default skill package includes:
+
+skills:
+mace		the use of maces and other blunt weapons
+sword		swordplay and fencing
+backstab	the art of hitting your opponent by surprise
+disarm		used to deprive your opponent of his weapon
+dodge		the best way to take a punch is not to be there
+second attack	with training, the skilled thief can hit twice as fast
+trip		a good way to introduce an opponent to the floor
+hide		the art of remaining undetected in a room
+peek		used to look into a person's belongings
+pick lock	a useful skill for breaking and entering
+sneak		with this skill, a thief can walk into a room undetected
+~
+
+-1 WARRIOR 'WARRIOR BASICS' 'WARRIOR DEFAULT'~
+Warriors live for combat and the thrill of battle. They are the best fighters
+of all the classes, but lack the subtle skills of thieves and the magical
+talents of mages and priests.  Warriors are best for those who don't mind
+taking the direct approach, even when another method might be called for.
+
+Warriors begin with skill in the sword, and gain a second attack in combat.
+Other weapon skills may be purchased cheaply, or gained in the default skill
+package, which includes the following:
+
+skills:
+weaponsmaster	this group provides knowledge of all weapon types
+shield block	the art of parrying with a shield
+bash		a forceful rush with the body, designed to flatten your foes
+enhanced damage	this skill multiplies your damage in battle
+parry		the art of parrying with weapons
+rescue		allows you to take the blows aimed for a companion
+third attack	allows the skilled warrior to land three blows in one round
+~
+
+-1 EXOTIC WEAPONS WEAPON AXE DAGGER FLAIL MACE POLEARM SPEAR SWORD WHIP~
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds.
+If the character has the parry skill as well, he can parry incoming attacks.
+The chance of parrying is best if the character in question is skilled at 
+both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+weaponsmaster	skill group of all weapons listed below (save exotic weaponry)
+axe		the use of axes, ranging from hand to great (but not halberds)
+dagger		the use of knives and daggers, and other stabbing weapons
+flail		skill in ball-and-chain type weapons
+mace		this skill includes clubs and hammers as well as maces
+polearm		the use of pole weapons (except spears), including halberds
+spear		this skill covers both spears and staves, but not polearms
+sword		the warrior's standby, from rapier to claymore
+whip		the use of whips, chains, and bullwhips
+exotic		the use of strange magical weapons
+
+The exotic skill cannot be purchased, and is dependent solely upon level.
+~
+
+-1 'SHIELD BLOCK'~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  All classes may learn shield block, but only warriors and
+clerics are good at it.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+~
+
+-1 SECOND DUEL~
+Second allows a character to wield two weapons at once, the only 
+disadvantage is that a shield cannot be worn. Also the second 
+weapon has to be lighter than the first.
+It is sometimes quite difficult to find a weapon to second.
+~
+
+-1 BACKSTAB~
+Backstab is the favored attack of  thieves, murderers, and other thieves.It 
+can be used with any weapon type, but is most effective with piercing weapons.
+The damage inflicted by a backstab is determined by the attacker's level, his
+weapon skill, his backstab skill, and the power of his opponent.
+~
+
+-1 BASH~
+The bash skill is a warrior talent, a brute-force attack designed to knock
+your foe to his knees.  Its success depends on many factors, including the
+bash rating, your weight, and the size of your opponent.  Bashing a dragon
+is not generally a wise idea.
+~
+
+-1 BERSERK~
+Only the powerful can master berserking, the ability to enter insane rage
+in combat.  Its effects are not altogether unlike the frenzy spell -- a huge
+surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking warriors are more resistant to the effects of magic.
+~
+
+-1 DIRT 'DIRT KICKING'~
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  
+~
+
+-1 DISARM~
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon.  The best possible chance of disarming occurs when you
+are skilled both your own and your opponent's weapon. 
+~
+
+-1 DODGE~
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving the
+character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target. 
+~
+
+-1 'ENHANCED DAMAGE'~
+Warriors and skilled thieves can become skilled enough in combat that they are
+able to inflict more damage than other classes.  Enhanced damage is checked
+for with each hit, although with a low skill, the chance of receiving a bonus
+is very low indeed.
+~
+
+-1 ENVENOM~
+The envenom skill is a cowardly skill, designed to
+win a battle through alchemy and treachery rather than skill or strength.
+Or, put another way, it's a skill used by the smart to kill the foolish.
+Food, drink, and weapons may be envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on the consumer, and is unlikely to
+be more than a minor inconvience (after all, the typical adventurer could
+drink sewer water with only a trace of the runs).  A poisoned weapon, on
+the other hand, can inflict serious damage on an opponent as the poison 
+burns through his bloodstream.  But be careful, blade venom evaporates 
+quickly and is rendered almost powerless by repeated blows in combat.
+~
+
+-1 'HAND TO HAND'~
+Hand to hand combat is a basic skill in Rylelia.  Learning this
+style of fighting gives the player a weapon even when disarmed -- bare hands.
+Trained hand to hand experts are far more effective than many swordsmen.
+~
+
+-1 KICK~
+Kicking allows the adventurer to receive an extra attack in combat, a powerful
+kick. However, a failed kick may throw an unwary fighter off balance. 
+~
+
+-1 PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is succesful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+
+-1 RESCUE~
+A friend in need is a friend indeed.  And when in combat, a friend with
+the rescue skill is just the friend you need.  Rescue allows you to intercede
+in combat, protecting weaker characters from bodily harm. Hopefully the
+favor will be returned.  Success in rescuing depends on the skill rating, as
+well as a comparision of level, dexterity, and speed between the character and
+the target. (note: you rescue a friend, not the monster)
+~
+
+-1 TRIP~
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the ground.
+Tripping large monsters is generally not a good idea, and agile ones will
+find the attack easy to avoid. 
+~
+
+-1 'SECOND ATTACK'~
+Training in second attack allows the character a chance at additional strikes
+in combat -- allow a 100% second attack does NOT guarantee 2 attacks every
+round.  
+~
+
+-1 'THIRD ATTACK'~
+Training in third attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a second attack as well.  Perfect
+third attack does NOT assure three attacks per round.  
+~
+
+-1 SHARPEN~
+Sharpen allows a character skilled in the ways of weapons to take out
+a wet stone and hone his or her weapon to razor sharpness, increasing
+its effectivness in battle.
+~
+
+-1 CIRCLE~
+Circle allows a character to slip around a foe during battle and 
+deliver a backstab like blow to their foe. This attack is difficult
+to do and makes you give up a turn or two after you do it.
+~
+
+-1 SKIN~
+Skin allows a character who is well trained in this skill to take a
+corpse and create a valuable skin. This skin will sometimes also 
+have a good armor rating.
+~
+
+-1 BUTCHER~
+Butcher allows a character to take a corpse of a creature and butcher
+it to create steaks that are edible. This is a great skill for those
+avoiding the sprawl of the city.
+~
+
+-1 ROUND ROUNDHOUSE~
+Round or roundhouse is a powerful kick that is delivered mainly by priests
+and martial artists. It delivers more damage than a regular kick but
+takes more time to recover after delivering one.
+~
+
+-1 HIDE SNEAK~
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, but only works for as long as the
+character remains stationary.  Sneak may be used when moving (including to
+sneak by monsters).
+~
+
+-1 'FAST HEALING'~
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  
+~
+
+-1 LORE~
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+concerning its power and uses.  It also may occasionally increase the value
+of an object, because more will be known about its worth.  
+~
+
+-1 HAGGLE HAGGLING~
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrainined adventurer had best 
+guard his treasure closely. 
+~
+
+-1 PEEK~
+The peek skill is useful for seeing what a player or monster is carrying,
+the better to use the steal command with.  More intelligent characters are
+harder to peek at. 
+~
+
+-1 PICK 'PICK LOCK'~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock.
+~
+
+-1 MEDITATION~
+This skill is similar to fast healing, but relies on the concentration and
+mantras to increase mana recovery when the character is sleeping or resting.
+All fighter types, with their troubled minds and violent attitudes, have
+much trouble learning to meditate.
+~
+
+-1 STEAL~
+Theft is the defining skill of the thief, and is easily learned by them.
+It allows items to be stolen from the inventory of monsters and characters,
+and even from shops!  But beware, shop keepers gaurd their merchandise 
+carefully.
+~
+
+-1 'DETECT GOOD'~
+Syntax: cast 'detect good'
+ 
+This spell enables the caster to detect good characters, which will
+reveal a characteristic golden aura.
+~
+
+-1 'DISPEL GOOD'~
+Syntax: cast 'dispel good' <victim>
+ 
+Dispel good brings forth evil energies that inflict horrific torment on 
+the pure of heart. 
+~
+
+-1 'RECHARGE'~
+Syntax: cast 'recharge' <item>
+
+The recharge spell is used to restore energy to depleted wands and staves.
+Fully exhausted items cannot be recharged, and the difficulty of the spell
+is proportional to the number of charges used.  Magic items can only be
+recharged one time successfully.
+~
+
+-1 'DEMONFIRE'~
+Syntax: cast 'demonfire' <target>
+
+Demonfire is a spell of blackest evil, and as such can only be used by those
+who follow the paths of darkness.  It conjures forth demonic spirits to 
+inflict terrible wounds on the enemies of the caster.
+~
+
+-1 'RAY OF TRUTH'~
+Syntax: cast 'ray of truth' <target>
+
+Ray of truth opens a portal to the planes of positive energy, bringing forth
+a beam of light of sufficient purity to harm or or annihilate the servants
+of evil.  It cannot harm the pure of heart, and will turn and strike 
+casters who are tainted by evil.
+~
+
+-1 'PORTAL'~
+Syntax: cast 'portal' <target>
+
+The portal spell is similar to gate, but creates a lasting one-way portal
+to the target creature, instead of transporting the caster.  Portals are
+entered using 'enter' or 'go' command, as in 'go portal'.  Portals cannot
+be made to certain destinations, nor used to escape from gate-proof rooms.
+Portal requires a special source of power to be used, unfortunately the
+secret of this material component has been lost...
+~
+
+-1 'NEXUS'~
+Syntax: cast 'nexus' <target>
+
+This spell is virtually identical to portal (see 'help portal'), with the
+only difference being that while portal creates a one-way gate, a nexus 
+spell makes a two-sided gate.  It also lasts longer than the lower-powered
+portal spell.  Both spells require an additional power source, the secret
+of which has been lost...
+~
+
+-1 'HEAT METAL'~
+Syntax: cast 'heat metal' <target>
+
+Heat metal is a powerful clerical attack spell, with effects that vary 
+according to the armor of the victim.  It heats up the metal equipment
+(assumed to be all weapons and armor at this point in time) on the target,
+causing him or her to drop them if possible, taking serious burns in the
+process (possibly fatal if the equipment is too heavy to remove easily).
+This spell does no damage to creatures who are immune to fire.
+~
+
+-1 'HOLY WORD'~
+Syntax: cast 'holy word'
+
+Holy word involves the invocation of the full power of a god, with
+disasterous effects upon the enemies of the user coupled with powerful
+blessings on the caster's allies.  All creatures of like alignment in the
+room are blessed and filled with righteous divine wrath, while those of
+opposite morals (or both good and evil in the case of neutral priests)
+are struck down by holy (or unholy might) and cursed.  The user suffers
+greatly from the strain of this spell, being left unable to move and 
+drained of vitality. 
+~
+
+-1 FRENZY~
+Syntax: cast 'frenzy' <target>
+
+The frenzy spell fills the target with righteous fury, greatly increasing
+his or her attack skill and damaging capacity.  Unfortunately, this divine
+wrath is coupled with a tendency to ignore threats to personal safety, 
+making the character easier to hit.  Frenzy provides immunity to the calm
+spell (see 'help calm'), and may only be used on those of the caster's 
+alignment.
+~
+
+-1 CALM~
+Syntax: cast 'calm' 
+
+One of the most useful and often overlooked abilities of the master is
+the calm spell, which can put an end to all violence in a room.  Calmed
+creatures will not attack of their own volition, and are at a disadvantage
+in combat as long as the spell soothes their minds.  The more violence 
+activity there is in a room, the harder the spell, and it is all or nothing --
+either all combat in the room is ended (with the exception of those who
+are immune to magic) or none is.
+~
+
+-1 HASTE~
+Syntax: cast 'haste' <target>
+
+The haste spell increases the speed and agility of the recipient, allowing
+an extra attack (or even a backstab) in combat, and improving evasive
+abilities in combat.  However, it produces a great strain on the system,
+such that recuperative abilities are halved.  Haste is capable of negating
+the slow spell. (see 'help slow').
+~
+
+-1 SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+
+-1 PLAGUE~
+Syntax: cast 'plague' <target>
+
+The plague spell infests the target with a magical disease of great virulence,
+sapping its strength and causing horrific suffering, possibly leading to
+death.  It is a risky spell to use, as the contagion can spread like
+wildfire if the victim makes it to a populated area.
+~
+
+-1 'CREATE ROSE'~
+Syntax: cast 'create rose'
+
+A romantic spell that creates a fragrant red rose, with utterly no 
+use whatsoever.
+~
+
+-1 'PROTECTION GOOD' 'PROTECTION EVIL'~
+Syntax: cast 'protection evil' <target>
+	cast 'protection good' <target>
+
+The protection spells reduce damage taken from attackers of the appropriate
+ethos, and improve saving throws against all forms of magic. They may not
+be cast on others, and one person cannot carry both defenses at the same
+time.
+~
+
+0 'GIANT STRENGTH'~
+Syntax: cast 'giant strength' <character>
+ 
+This spell increases the strength of the target character.
+~
+
+-1 'CHAIN LIGHTNING'~
+Syntax : cast 'chain lightning' <target>
+
+Chain lightning is a deadly spell, producing a powerful bolt of lightning
+that arcs from target to target in the room, until its force is fully
+expended.  Allies of the caster may be hit by this spell if they are members 
+of a clan, while the caster himself will not be struck unless no other
+viable target remains.  Chain lightning is most effective when used on
+groups of creatures.
+~
+
+-1 FARSIGHT~
+Syntax: cast 'farsight'
+	cast 'farsight' <direction>
+
+The farsight spell expands the caster's consciousness, allowing him or her
+to see far away beings like they were in the same room.  It takes intense
+concentration, often leaving the caster helpless for several minutes.
+The spell may be used for a general scan that reaches a short distance in
+all directions, or with a directional component to see creatures much
+farther away.
+~
+
+-1 MASS HEALING~
+Syntax: cast 'mass healing' 
+
+The mass healing spell, as its name might suggest, performs a healing spell
+on all players in the room.  It also throws in a refresh spell for good
+measure.
+~
+
+-1 'FLOATING DISC'~
+Syntax: cast 'floating disc'
+
+This useful spell creates a floating field of force which follows the caser
+around, allowing him or her to pile treasure high with no fear of weight
+penalties.  It lasts no more than twice the casters level in hours, and
+usually less.  It can hold 10 pounds per level of the caster, with a 
+maximum of five pounds per item.  The spell requires an open float location
+on the character, and the only way to remove the disc is to die or allow it
+to run out of energy.
+~
+
+-1 FIREPROOF~
+Syntax: cast 'fireproof' <object>
+
+The fireproof spell creates a short-lived protective aura around an object,
+to protect it from the harmful effects of acid and flame.  Items protected
+by this spell are not harmed by acid, fire, or the heat metal spell.
+Although inexpensive to use, the spell's short duration makes it impractical
+for protecting large numbers of objects.
+~
+
+-1 DROW~
+Drow according to some history are the oldest race on the planet.
+They are the ones who the name Rylelia descends from. Although
+this race once roamed the entire planet they now frequent the deep
+areas underground. Due to their usual dark nature they are shunned
+by most races except the Svirf. The Drow are the actual founders
+of the Sylvan race who now due to an ancient conflict are only
+considered distant cousins. Drow make excellent Necro's, thieves
+and Asassn. Their prime attribute is wisdom and they receive the
+trip skill for free. Drow are usually tall and slim being around
+5-6 feet in height.
+
+Drow are of evil nature and can be the following classes.
+
+necromancer, thief, assassin, runemaster, warrior.
+~
+
+-1 GNOME~
+Gnomes are a short stocky race with excellent constitution which
+is their prime stat. They are an older race and also have a
+fairly good wisdom, but unlike their dark cousins the Svirf,
+Gnomes are not as intelligent. Gnomes are known for theif long
+beards and hair which they like to braid and tie off. They like
+food and wine are good travelling companions. Gnome villages are
+usually located in hilly terrain. Gnomes receive the hide skill for free. 
+Gnomes are usually from 3-5 feet in height and very stocky.
+
+Gnomes are of good nature and can be the following classes
+
+crafter, ranger, healer, thief.
+~
+
+-1 HOBBIT~
+Hobbits are thought to be distant cousins to humans, although
+their cousins the Phrai tend to be more manlike. Hobbits are
+usually from 3-4 feet in height and have thick curls of hair
+that covers their head, the back of their hands and the tops
+of their feet. . Their prime stat is dexterity and they will
+receive the steal skill for free.
+Hobbits are generally liked by all humans although they are
+thought of as theives. Hobbit villages are close by most
+human cities due to the trading which is available.
+
+Hobbits are of good nature and can be the following classes
+
+ranger, thief, psionicist, priest.
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+
+-1 $~
+
+#$

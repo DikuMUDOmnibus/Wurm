@@ -1,0 +1,111 @@
+#PLAYER
+Name Tonla~
+Id   896728258
+LogO 896899293
+Vers 5
+ShD  A lithe sylvan, with blue eyes.~
+Desc A lithe sylvan with blue eyes and long black hair.
+Her age is difficult to judge, but she appears young.
+Her manor is that of a wild cat, with sudden movements
+and eyes that dart around her.
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race syl~
+Sex  2
+Cla  0
+Levl 1
+Sec  0
+Plyd 829
+Not  0 0 0 0 0
+Scro 22
+Room 9911
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 10
+Bank 0
+Exp  3000
+God  Chaos~
+Act  DEGPT
+AfBy FJ
+Comm NOQ
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+Home    0
+ACs 97 97 97 97
+Attr 14 17 15 20 15
+AMod 0 0 0 0 0
+Pass ~
+Titl  the Initiate~
+Pnts 0
+TSex 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 30 39 39
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second'
+Sk 20 'recall'
+Sk 1 'drag'
+Gr 'rom basics'
+Gr 'adv basics'
+Gr 'adv default'
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 15 0 0
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear 16
+Cost 35
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1703
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

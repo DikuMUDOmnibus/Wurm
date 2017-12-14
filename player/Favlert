@@ -1,0 +1,120 @@
+#PLAYER
+Name Favlert~
+Id   894477064
+LogO 894480203
+Vers 5
+ShD  A short, dumpy jezram.~
+Backy  Born the son of a beggar he aspires to nobility but lacks the finesse.
+He was beaten often as a child and is scorned by most everyone.
+~
+Desc A short dumpy jezram with bad breath and a foul disposition.
+He has green eyes, brown hair and yellow teeth.
+His laugh sounds like a chicken and his smile is toothy and foul.
+When he looks at you, you wish he would look away.
+He is very uncomely.
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race jez~
+Sex  1
+Cla  0
+Levl 3
+Sec  0
+Plyd 3139
+Not  0 0 0 0 0
+Scro 22
+Room 1900
+HMV  38 38 105 105 112 112
+Gold 0
+Silv 0
+Bank 0
+Exp  6110
+God  Greed~
+Act  DEGPT
+Comm NOQ
+Pos  8
+Alig  0
+Home    0
+ACs 94 94 94 94
+Attr 19 17 15 20 19
+AMod 0 0 0 0 0
+Pass Fa7pdhgyiIy8o~
+Titl  the Scholar~
+Pnts 4
+TSex 1
+LLev 0
+HMVP 38 105 112
+Cnd  0 40 44 25
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 75 'sword'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second'
+Sk 20 'recall'
+Sk 1 'drag'
+Gr 'rom basics'
+Gr 'adv basics'
+Gr 'adv default'
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear 16
+Cost 35
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 0
+Cost 50
+Val  0 0 19 0 0
+End
+
+#O
+Vnum 1908
+Nest 0
+Cond 0
+Wear 8
+Cost 7
+End
+
+#O
+Vnum 1907
+Nest 0
+Cond 0
+Wear 7
+Cost 10
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1931
+Nest 0
+Cond 0
+Wear -1
+Cost 10
+End
+
+#END

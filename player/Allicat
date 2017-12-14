@@ -1,0 +1,147 @@
+#PLAYER
+Name Allicat~
+Id   894507613
+LogO 894509369
+Vers 5
+ShD  A tall thin elf with dark hair and green eyes.~
+Backy  The youngest daughter of a semi wealthy family,
+she decided to go out into the world to find her
+own path.  
+~
+Desc A very tall thin elf with piercing green eyes seems
+to have more than a passing resemblance to a feline.
+Her eyes dart around the room as if she sees things 
+no one else can see.
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race syl~
+Sex  2
+Cla  0
+Levl 1
+Sec  0
+Plyd 1756
+Not  0 0 0 0 0
+Scro 22
+Room 1972
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 10
+Bank 0
+Exp  3195
+God  Magic~
+Act  DEGHP
+AfBy FJ
+Comm NOQ
+Pos  4
+Prac 5
+Trai 3
+Alig  0
+Home    0
+ACs 94 94 94 94
+Attr 21 20 17 13 14
+AMod 0 0 0 0 0
+Pass Al314ftCs86HE~
+Titl  the Initiate~
+Pnts 0
+TSex 2
+LLev 0
+HMVP 20 100 100
+Cnd  0 30 31 41
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second'
+Sk 20 'recall'
+Sk 1 'drag'
+Gr 'rom basics'
+Gr 'adv basics'
+Gr 'adv default'
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+Val  0 0 1 0 0
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear 16
+Cost 35
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 1936
+Nest 0
+Cond 0
+Wear -1
+Cost 5
+End
+
+#O
+Vnum 1908
+Nest 0
+Cond 0
+Wear 8
+Cost 7
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 1907
+Nest 0
+Cond 0
+Wear 7
+Cost 10
+End
+
+#END

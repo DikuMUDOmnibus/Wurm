@@ -1,0 +1,103 @@
+Welcome to WURM 2.2 .....
+
+Wurm Code is based on Rom2.4b4 and all license agreements apply.
+
+==============================================================
+
+Well first off, we have re-done all the skill systems for each 
+of the classes. They are more balanced now and allocated alot
+more effectively. 
+
+Alot of the classes and races have been renamed to be more 
+unique to the Wurm world.
+
+We still need to do alot of work on the help files and such,
+they are quite incomplete.
+
+Some new skills have been added, 
+
+          push  buthcer skin
+          drag  throw   punch   and tons more.
+          camo  roundhouse
+
+We are also currently working on mounts, and a language
+system and also thrown and fired weapons.
+
+
+The prompt format has been changed to a percentage.
+
+Most of the old areas are gone, with new onces being put in there
+place, Calinth the main city is now more playable in, and gets 
+more so each day.
+=================================================================
+
+Wurm 2.3 Release notes.
+
+We are returning to main stream class and racial names. The alignment
+system of the original code is back (G/N/E) to make race and class
+alignment specific.
+
+----
+
+The new class psionicist is in, with alot of great new skills.
+
+
+----
+
+The dictionary check for a login name is in, its in the (bad.names)
+file in the src directory. The code will check this file at login, it
+takes a second for names beginning with -Z- but can be easily 
+disabled by commenting it out.
+
+----
+
+The ONLINE social editing is in!
+
+----
+
+To boot you must supply the executable with TWO port numbers one is 
+the login port of your mud, the other is a telnet port specifically
+for web pages.
+
+i.e.        wurm 9000 2090
+
+This sets the login port to 9000 and the web port at 2090
+
+These are the default ports that run in the ./startup file, if
+you cant boot, you might have to switch ports around a bit.
+
+----
+
+Whats Coming In Next Months Release.
+
+
+Board System instead of notes.
+Online user voting system.
+FrontEND menu system to drop to a message base area.
+MOBprograms
+OLCediting (not sure yet if i like olc)
+Deity and Deity favor.
+New spells and skills.
+More text help files.
+
+---
+
+VVVVVVVVVV READ BELOW VVVVVVVVVVVVVV
+
+
+Wurm is looking for Coders and Area builders.
+Send email to   
+
+         jmurphy@sunburn.eng.usf.edu
+
+Or contact our home Wurm site at
+
+131.247.1.93 9000
+
+
+
+More effective documentation will be a task for the next release.
+
+If you find problems please let us know.
+
+

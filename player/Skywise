@@ -1,0 +1,61 @@
+#PLAYER
+Name Skywise~
+Id   894649850
+LogO 894656433
+Vers 5
+ShD  Skywise in chains~
+Backy  just a visiter
+~
+Desc Skywise is a member of the House of Sovereigns
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race syl~
+Sex  1
+Cla  0
+Levl 1
+Sec  0
+Plyd 5373
+Not  893388363 0 0 0 0
+Scro 22
+Room 1900
+HMV  -1 20 100 100 100 100
+Gold 0
+Silv 10
+Bank 0
+Exp  3000
+God  Truth~
+Act  DEGP
+AfBy FJ
+Comm NOQ
+Pos  5
+Prac 5
+Trai 3
+Alig  0
+Home    0
+ACs 100 100 100 100
+Attr 19 17 19 16 12
+AMod 0 0 0 0 0
+Pass SkclQFdA77UDs~
+Titl  the Initiate~
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 0 37 37
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second'
+Sk 20 'recall'
+Sk 1 'drag'
+Gr 'rom basics'
+Gr 'adv basics'
+Gr 'adv default'
+End
+
+#END

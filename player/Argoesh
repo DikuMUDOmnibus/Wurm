@@ -1,0 +1,205 @@
+#PLAYER
+Name Argoesh~
+Id   893558190
+LogO 896910014
+Vers 5
+ShD  A small youthful sylvan~
+Backy  An old lord of magic
+~
+Desc A small youthful sylvan
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race syl~
+Sex  1
+Cla  0
+Levl 60
+Sec  9
+Plyd 63736
+Not  893388363 0 0 0 0
+Scro 22
+Room 9912
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 10
+Bank 0
+Exp  2000
+God  Chaos~
+Act  DEGNPT
+AfBy FJ
+Comm NOQ
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+Home    0
+ACs 91 88 88 100
+Attr 20 20 20 20 20
+AMod 0 0 0 0 0
+Pass Ar87xjZL4YnT6~
+Bin  Argoesh appears out of nowhere~
+Titl  The master of magic~
+Pnts 256
+TSex 1
+LLev 60
+HMVP 20 100 100
+Cnd  0 48 48 48
+Sk 100 'aurasight'
+Sk 100 'combat mind'
+Sk 100 'awe'
+Sk 100 'true path'
+Sk 100 'shadowpet'
+Sk 100 'poison sense'
+Sk 100 'true pain'
+Sk 100 'levitate'
+Sk 100 'astral walk'
+Sk 100 'life detect'
+Sk 100 'adrenalin'
+Sk 100 'mind bar'
+Sk 100 'control body'
+Sk 100 'drunken'
+Sk 100 'domination'
+Sk 100 'fireblast'
+Sk 100 'project force'
+Sk 100 'complete heal'
+Sk 100 'cell adjust'
+Sk 100 'flesh armor'
+Sk 100 'life drain'
+Sk 100 'hunt'
+Sk 100 'dagger'
+Sk 100 'shield block'
+Sk 100 'staff'
+Sk 100 'sword'
+Sk 100 'hand to hand'
+Sk 100 'trip'
+Sk 100 'second'
+Sk 100 'second attack'
+Sk 100 'haggle'
+Sk 100 'camo'
+Sk 10 'hide'
+Sk 100 'meditation'
+Sk 85 'sneak'
+Sk 100 'scrolls'
+Sk 100 'staves'
+Sk 100 'wands'
+Sk 100 'recall'
+Sk 100 'push'
+Sk 100 'drag'
+Gr 'rom basics'
+Gr 'psi default'
+Gr 'psione'
+Gr 'psitwo'
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear -1
+Cost 35
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear 16
+Cost 35
+End
+
+#O
+Vnum 1601
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 5303
+Nest 0
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 5303
+Nest 0
+Cond 0
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 5300
+Nest 0
+Cond 0
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 1703
+Nest 0
+Cond 0
+Wear -1
+Cost 1000
+End
+
+#END

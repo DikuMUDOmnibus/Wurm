@@ -1,0 +1,28 @@
+Welcome to WURM mud, A code based on ROM24.
+====================================================
+
+To start wurm mud you can run the startup file in the
+area directory. This file assigns to sockets for the
+mud to run. One is the telnet address, the main one
+being 9000, the second is 2090 that is the link for
+a webpage to show who is online. Its pretty neat..
+But for the command line prompt you can set it manually
+by typing  WURM TELNETPORT WEBWHOPORT
+
+i.e.       wurm 9000 2090
+
+this will set it up fine for you. The player files are
+in the zip as well. The passwords are scrambles so dont
+even bother...hehe. The should be out by next release.
+There are alot of good commands coming in and new areas
+being made. Should be pretty cool. Contact 
+
+jmurphy@eng.usf.edu     
+
+for more information. Or log into the Lands of Rylelia
+
+131.247.1.93 9000
+
+And try us out............
+
+

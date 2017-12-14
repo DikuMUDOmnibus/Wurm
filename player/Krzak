@@ -1,0 +1,109 @@
+#PLAYER
+Name Krzak~
+Id   894507036
+LogO 894507600
+Vers 5
+ShD  A tall fair elf with a hard look in his eye~
+Backy  An elf who has already seen many battles at his young age.
+He is many times over a veteran, and is now searching for
+a cause worthy of his talents.  He is new to this realm, 
+but seams to have no trouble finding his way around.
+~
+Desc A tall fair elf with a hard look in his watery blue eyes
+stands before you.  His cocky stance is almost a challenge
+to test him, but that might not be such a good idea.  His 
+hands look like they would be very comfortable holding any
+type of weapon, and his grim smile makes you think he 
+handles them quite often.
+~
+Prom {c<%P%%hp %p%%m %b%%mv>{x ~
+Race syl~
+Sex  1
+Cla  0
+Levl 1
+Sec  0
+Plyd 541
+Not  893388363 0 0 0 0
+Scro 22
+Room 1900
+HMV  20 20 100 100 100 100
+Gold 0
+Silv 10
+Bank 0
+Exp  3000
+God  Chaos~
+Act  DEGP
+AfBy FJ
+Comm NOQ
+Pos  8
+Prac 5
+Trai 3
+Alig  0
+Home    0
+ACs 97 97 97 97
+Attr 17 20 19 19 13
+AMod 0 0 0 0 0
+Pass KrDT4aGOnJE7g~
+Titl  the Initiate~
+Pnts 0
+TSex 1
+LLev 0
+HMVP 20 100 100
+Cnd  0 48 48 48
+Sk 1 'dagger'
+Sk 1 'shield block'
+Sk 40 'sword'
+Sk 1 'bash'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 1 'second'
+Sk 20 'recall'
+Sk 1 'drag'
+Gr 'rom basics'
+Gr 'adv basics'
+Gr 'adv default'
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 0
+Cost 0
+End
+
+#O
+Vnum 1909
+Nest 0
+Cond 0
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 1921
+Nest 0
+Cond 0
+Wear 16
+Cost 35
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 1906
+Nest 0
+Cond 0
+Wear -1
+Cost 50
+End
+
+#END
